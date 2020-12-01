@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapsApplication</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="current_loc_msg">Current Location</string>
+    <string name="last_known_loc">My last known location</string>
+    <string name="Clear_Memmory">clear memmory</string>
+    <string name="exit_measurement_button">Exit Measurement Button</string>
+    <string name="record_pause_button">Record / Pause Button</string>
+</resources>
